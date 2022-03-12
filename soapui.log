@@ -1,0 +1,44 @@
+2022-03-13 00:36:03,498 WARN  [SoapUI] Missing folder [C:\Users\user\Desktop\SoapUi Project\my-app\ext] for external libraries
+2022-03-13 00:36:03,683 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\user\soapui-settings.xml]
+2022-03-13 00:36:04,584 INFO  [WsdlProject] Loaded project from [file:/C:/Users/user/Desktop/SoapUi%20Project/my-app/calculator-soapui-project.xml]
+2022-03-13 00:36:04,809 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [calculator]
+2022-03-13 00:36:04,811 INFO  [SoapUITestCaseRunner] Running Project [calculator], runType = SEQUENTIAL
+2022-03-13 00:36:04,828 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Calc Test Case]
+2022-03-13 00:36:04,852 INFO  [SoapUITestCaseRunner] running step [Add - add]
+2022-03-13 00:36:05,740 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:05,741 INFO  [SoapUITestCaseRunner] running step [Subtract - sub]
+2022-03-13 00:36:06,039 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:06,040 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Calc Test Case], time taken: 1174ms, status: FINISHED
+2022-03-13 00:36:06,044 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Calc Test Case 2]
+2022-03-13 00:36:06,048 INFO  [SoapUITestCaseRunner] running step [Multiply - mul]
+2022-03-13 00:36:06,370 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:06,372 INFO  [SoapUITestCaseRunner] running step [Divide - div]
+2022-03-13 00:36:06,685 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:06,686 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Calc Test Case 2], time taken: 631ms, status: FINISHED
+2022-03-13 00:36:06,688 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Calc Test Case 3]
+2022-03-13 00:36:06,691 INFO  [SoapUITestCaseRunner] running step [Add - add2]
+2022-03-13 00:36:06,995 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:06,996 INFO  [SoapUITestCaseRunner] running step [Subtract - sub2]
+2022-03-13 00:36:07,309 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:07,309 INFO  [SoapUITestCaseRunner] running step [Multiply - mul2]
+2022-03-13 00:36:07,615 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:07,616 INFO  [SoapUITestCaseRunner] running step [Divide - div2]
+2022-03-13 00:36:07,927 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:07,928 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Calc Test Case 3], time taken: 1230ms, status: FINISHED
+2022-03-13 00:36:07,930 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Calc Test Case 3]
+2022-03-13 00:36:07,932 INFO  [SoapUITestCaseRunner] running step [Add - add2]
+2022-03-13 00:36:08,229 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:08,229 INFO  [SoapUITestCaseRunner] running step [Subtract - sub2]
+2022-03-13 00:36:08,535 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:08,536 INFO  [SoapUITestCaseRunner] running step [Multiply - mul2]
+2022-03-13 00:36:08,841 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:08,841 INFO  [SoapUITestCaseRunner] running step [Divide - div2]
+2022-03-13 00:36:09,146 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:09,146 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Calc Test Case 3], time taken: 1209ms, status: FINISHED
+2022-03-13 00:36:09,148 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Copy of Calc Test Case 2]
+2022-03-13 00:36:09,149 INFO  [SoapUITestCaseRunner] running step [Multiply - mul]
+2022-03-13 00:36:09,451 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:09,452 INFO  [SoapUITestCaseRunner] running step [Divide - div]
+2022-03-13 00:36:09,757 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2022-03-13 00:36:09,757 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Copy of Calc Test Case 2], time taken: 605ms, status: FINISHED
+2022-03-13 00:36:09,758 INFO  [SoapUITestCaseRunner] Project [calculator] finished with status [FINISHED] in 4941ms
